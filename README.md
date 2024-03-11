@@ -6,7 +6,9 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+
+## <a name="links">🤸 Live Website</a> - [Live Website]([https://git-scm.com/](https://nike-landing-page-4iyz2hv0i-rkf2778.vercel.app/))
+
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
